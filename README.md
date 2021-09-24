@@ -39,6 +39,7 @@ Data augmentation
 Cross-validation 
 
 **Model**
+
 CNN
 
 Adam optimizer
